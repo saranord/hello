@@ -79,7 +79,7 @@ Header
 
 header {
 	position: relative;
-	background: #f3f3f3 url(img/header.jpg) no-repeat;
+	background: #f3f3f3 url(header.jpg) no-repeat;
 	background-size: cover;
 	height: 800px;
 	display: flex;
